@@ -8,4 +8,4 @@ A full-stack URL shortening service built using React, Node.js, Express.js and M
 - Redirect using short URLs
 - User authentication
 - Custom short URLs
-- URL analytics
+- URL analyticsn
